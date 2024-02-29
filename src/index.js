@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import { InitSpin } from './initial-spin/initial-spin';
-import { Solution } from './solu';
+// import { Solution } from './solu';
 import { SolutionTwo } from './solu1';
 
 
