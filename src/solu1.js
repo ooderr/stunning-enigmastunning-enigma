@@ -1,7 +1,6 @@
 
 import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
-import App from "./App";
 import { InitSpin } from "./initial-spin/initial-spin";
 import { Solution } from "./solu";
 
