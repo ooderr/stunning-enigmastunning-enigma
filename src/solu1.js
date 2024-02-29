@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 import { InitSpin } from "./initial-spin/initial-spin";
 import { Solution } from "./solu";
-
+// hello
 export const SolutionTwo = ()=>{
 
     const [c, setC] = useState(false);
